@@ -22,10 +22,14 @@
     <b>AI 短视频生成 (<a href="https://github.com/JakkBob/Pixelle-Video.git">Pixelle-Video</a>)</b>
   </summary>
 
-  - **仓库地址**: [xxx/Img-Compressor](https://...)
-  - **语言**: Python
-  - **用途**: 批量压缩文件夹内的图片
+  只需输入一个 主题，Pixelle-Video 就能自动完成：
+
+  - ✍️ 撰写视频文案
+  - 🎨 生成 AI 配图/视频
+  - 🗣️ 合成语音解说
+  - 🎵 添加背景音乐
+  - 🎬 一键合成视频
   
-  > **备注**: 记得先安装 Pillow 库 `pip install Pillow`
+  > **仓库地址**: `https://github.com/JakkBob/Pixelle-Video.git`
 
 </details>   
