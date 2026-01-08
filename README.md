@@ -18,7 +18,7 @@
 ## 🛠️ 常用脚本
 
 <details>
-  <summary><b>1. 图片压缩工具 (Img-Compressor)</b></summary>
+  <summary><b>AI 短视频生成 ([Pixelle-Video](https://github.com/JakkBob/Pixelle-Video.git))</b></summary>
 
   - **仓库地址**: [xxx/Img-Compressor](https://...)
   - **语言**: Python
