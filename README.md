@@ -25,5 +25,5 @@
   - **用途**: 批量压缩文件夹内的图片
   
   > **备注**: 记得先安装 Pillow 库 `pip install Pillow`
-  
+</details>
   
